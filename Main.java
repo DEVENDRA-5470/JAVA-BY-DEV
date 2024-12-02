@@ -12,6 +12,7 @@ public class Main {
 		odd_even();
 		System.out.println("------ Factorial --------");
 		factorial();
+		System.out.println("------ END --------");
 		
 	}
 
